@@ -47,3 +47,5 @@ This site was built using [GitHub Pages](https://pages.github.com/).
 [Top](#heading-1)
 
 Click [here](here.md)
+
+![Image of the best sentient fire](images/Calcifer.jpg)
